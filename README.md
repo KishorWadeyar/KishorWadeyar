@@ -30,14 +30,5 @@ I believe in constant learning, experimentation, and clean, thoughtful code.
 
 ---
 
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="mailto:kishor.wadeyar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/kishorwadeyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@kishorwadeyar"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
-
----
-
 <h3 align="center">✨ “Turning ideas into code that makes a difference.” ✨</h3>
 
