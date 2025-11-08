@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kishor Wadeyar</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
 ---
 
